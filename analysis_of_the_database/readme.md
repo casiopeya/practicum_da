@@ -15,6 +15,7 @@
 
 Схема данных:
 
+<img src=https://pictures.s3.yandex.net/resources/scheme_1589269096.png>
 
 
 ## Библиотеки
